@@ -1,5 +1,4 @@
-# SOCIAL MEDIA DO'S AND DON'T CHECKLIST
-# Social Media Do’s and Don’ts
+# Social Media Do’s and Don’ts Checklist
 
 ## DO:
 - Use strong and unique passwords for all accounts  
