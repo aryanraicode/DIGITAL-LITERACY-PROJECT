@@ -1,3 +1,4 @@
+# SOCIAL MEDIA DO'S AND DON'T CHECKLIST
 DO:
 - Use strong passwords
 - Keep profiles professional
