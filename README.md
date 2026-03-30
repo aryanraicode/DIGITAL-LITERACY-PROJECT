@@ -1,4 +1,4 @@
-# DIGITAL-LITERACY-PROJECT
+<img width="1917" height="855" alt="image" src="https://github.com/user-attachments/assets/f6f279e6-363a-4ba0-a926-385ecf3b9d82" /># DIGITAL-LITERACY-PROJECT
 A beginner-friendly digital literacy portfolio demonstrating essential skills for students in the digital world.
 # Digital Literacy Portfolio
 
@@ -27,7 +27,8 @@ Set up and updated professional profiles:
 - Practiced coding on HackerRank  
 - Built a Google Form quiz to spread awareness  
 
- Form Link: https://docs.google.com/forms/d/e/1FAIpQLScT4SBqtsopFZVIlqi5ZBsPuYz8b-xNv3rRpEviXMwzBLniFg/viewform?usp=dialog
+ Form Link: https://docs.google.com/forms/d/e/1FAIpQLScT4SBqtsopFZVIlqi5ZBsPuYz8b-xNv3rRpEviXMwzBLniFg/viewform?usp=preview
+
 
 
 ###  Task 4 – Professional Communication
